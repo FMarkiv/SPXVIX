@@ -1,2 +1,5 @@
-# SPXVIX
-Vix vs SP500
+# SPX & VIX
+Vix Historical in csv
+SP500 Historical in csv
+
+
